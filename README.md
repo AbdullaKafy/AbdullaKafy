@@ -1,8 +1,13 @@
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img src="assets/banner-light.svg" width="720" alt="Abdulla Al Kafy, GeoAI researcher and PhD student, Geography and the Environment, The University of Texas at Austin">
+  <img src="assets/banner-light.svg" width="560" alt="Abdulla Al Kafy">
 </picture>
+</p>
+
+<p align="center">
+<b>Geospatial Machine Learning Researcher</b> &nbsp;|&nbsp; <b>PhD Student, The University of Texas at Austin</b><br>
+Satellite, lidar and field data turned into tested models of urban heat, air quality and land change
 </p>
 
 <p align="center">
@@ -30,6 +35,34 @@ I build geospatial AI that measures environmental exposure (urban heat, air qual
 **[green-roof-cooling-lidar](https://github.com/AbdullaKafy/green-roof-cooling-lidar)**: lidar urban form and neural networks to test green roof cooling, with a worked example on open USGS 3DEP lidar for downtown Austin.
 
 **[publications-code](https://github.com/AbdullaKafy/publications-code)**: every journal article with DOI, citations and a link to its code where one exists.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/h-figures-dark.svg">
+  <img src="assets/h-figures-light.svg" width="900" alt="Selected Figures">
+</picture>
+
+<table>
+<tr>
+<td width="33%" align="center"><a href="https://github.com/AbdullaKafy/GeoXVIEW"><img src="https://raw.githubusercontent.com/AbdullaKafy/GeoXVIEW/main/figures/showcase/architecture.jpg" alt="GeoXVIEW five-layer architecture"></a></td>
+<td width="33%" align="center"><a href="https://github.com/AbdullaKafy/landsat-climate-ml/tree/main/papers/2021-scs-cumilla-seasonal-utfvi"><img src="https://raw.githubusercontent.com/AbdullaKafy/landsat-climate-ml/main/papers/2021-scs-cumilla-seasonal-utfvi/figures/fig14_predicted_utfvi.png" alt="Predicted UTFVI, Cumilla"></a></td>
+<td width="33%" align="center"><a href="https://github.com/AbdullaKafy/green-roof-cooling-lidar/tree/main/paper"><img src="https://raw.githubusercontent.com/AbdullaKafy/green-roof-cooling-lidar/main/paper/figures/fig8_green_roof_dlst_simulation.png" alt="Green roof cooling simulation, Austin"></a></td>
+</tr>
+<tr>
+<td align="center"><sub>GeoXVIEW: five layers from satellite to street level (dissertation)</sub></td>
+<td align="center"><sub>Predicted summer and winter UTFVI, Cumilla, 2029 and 2039 (<i>Sustainable Cities and Society</i>, 2021)</sub></td>
+<td align="center"><sub>Simulated green roof cooling, downtown Austin (<i>Sustainable Cities and Society</i>, 2024)</sub></td>
+</tr>
+<tr>
+<td width="33%" align="center"><a href="https://github.com/AbdullaKafy/landsat-climate-ml/tree/main/papers/2023-ei-cht-forest-carbon"><img src="https://raw.githubusercontent.com/AbdullaKafy/landsat-climate-ml/main/papers/2023-ei-cht-forest-carbon/figures/fig8_carbon_storage_change.jpg" alt="Carbon storage change, Chittagong Hill Tracts"></a></td>
+<td width="33%" align="center"><a href="https://github.com/AbdullaKafy/landsat-climate-ml/tree/main/papers/2023-stoten-barind-drought"><img src="https://raw.githubusercontent.com/AbdullaKafy/landsat-climate-ml/main/papers/2023-stoten-barind-drought/figures/fig12_vhi_drought_maps.jpg" alt="VHI drought maps, Barind Tract"></a></td>
+<td width="33%" align="center"><a href="https://github.com/AbdullaKafy/landsat-climate-ml/tree/main/papers/2022-be-sylhet-seasonal-utfvi"><img src="https://raw.githubusercontent.com/AbdullaKafy/landsat-climate-ml/main/papers/2022-be-sylhet-seasonal-utfvi/figures/fig8_summer_utfvi.jpg" alt="Summer UTFVI, Sylhet"></a></td>
+</tr>
+<tr>
+<td align="center"><sub>Carbon storage change, Chittagong Hill Tracts, 1996 to 2021 (<i>Ecological Indicators</i>, 2023)</sub></td>
+<td align="center"><sub>Agricultural drought (VHI), Barind Tract, 1996 to 2021 (<i>Science of the Total Environment</i>, 2023)</sub></td>
+<td align="center"><sub>Summer UTFVI, Sylhet, 1995 to 2020 (<i>Building and Environment</i>, 2022)</sub></td>
+</tr>
+</table>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/h-papers-dark.svg">
